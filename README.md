@@ -31,7 +31,6 @@ trading_bot/
 ├── logs/
 │   └── trading_bot.log      # all runs logged here (auto-created)
 ├── screenshots
-├── .env.example
 ├── requirements.txt
 └── README.md
 ```
