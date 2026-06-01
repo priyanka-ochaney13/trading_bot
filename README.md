@@ -30,11 +30,7 @@ trading_bot/
 ├── cli.py                   # CLI entry point (Typer)
 ├── logs/
 │   └── trading_bot.log      # all runs logged here (auto-created)
-├── screenshots/
-│   ├── market_order.png
-│   ├── limit_order.png
-│   ├── interactive_mode.png
-│   └── testnet_order_history.png
+├── screenshots
 ├── .env.example
 ├── requirements.txt
 └── README.md
